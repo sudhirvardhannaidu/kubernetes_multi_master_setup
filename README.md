@@ -340,5 +340,4 @@ You can now verify your HA cluster using -
 kubectl get nodes 
 
 ```
----
-# Mithun Technologies Marathahalli, Banglore.  Ph: +91-8296242028 / +91-9980923226
+--
